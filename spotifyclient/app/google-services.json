@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "989431142417",
+    "project_id": "spotifyclient-e2aa0",
+    "storage_bucket": "spotifyclient-e2aa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989431142417:android:275bfd5492e37efa9ff9b0",
+        "android_client_info": {
+          "package_name": "com.jslee.spotifyclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989431142417-atqoqff11ot39u01j3mpg20i96o40ikn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jslee.spotifyclient",
+            "certificate_hash": "7b9702d66c4b7b3c57d2bd063aaca2b2491c23bd"
+          }
+        },
+        {
+          "client_id": "989431142417-avprtupqholsr2tgbqbv5ck7pubu2r3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH5iLNWa6zDHwCR7k0vV7RgYlp63WstJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989431142417-avprtupqholsr2tgbqbv5ck7pubu2r3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
