@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Jaesung/Documents/GitRepo/Project/android-spotify/spotifyclient/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Jaesung/Documents/GitRepo/Project/android-spotify/spotifyclient/app/src/main/res/drawable/ic_image.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/Jaesung/Documents/GitRepo/Project/android-spotify/spotifyclient/app/src/main/res/drawable/ic_play.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/Jaesung/Documents/GitRepo/Project/android-spotify/spotifyclient/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>
